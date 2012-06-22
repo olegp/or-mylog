@@ -4,6 +4,11 @@
   "description": "Override example that replaces console.log with a custom logging function",
   "version": "0.0.1",
   "author": "Oleg Podsechin <oleg@ionsquare.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olegp/or-mylog.git"
+  },
+  "homepage": "http://github.com/olegp/or-mylog/",
   "main": "./index.js",
   "engines": {
     "node": "*"
