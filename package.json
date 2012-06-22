@@ -1,0 +1,14 @@
+{
+  "name": "or-mylog",
+  "keywords": [],
+  "description": "Override example that replaces console.log with a custom logging function",
+  "version": "0.0.1",
+  "author": "Oleg Podsechin <oleg@ionsquare.com>",
+  "main": "./index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+  },
+  "licenses": [ { "type": "MIT" } ]
+}
